@@ -18,7 +18,6 @@ const AgentsListHeader = () => {
             New Agent
           </Button>
         </div>
-        Agents List Header
       </div>
     </>
   );
